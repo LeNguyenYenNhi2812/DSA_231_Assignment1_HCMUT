@@ -4,7 +4,7 @@
 #include "Restaurant.cpp"
 #include <fstream>
 //int MAXSIZE;
-
+//123
 void simulate(string filename, imp_res* r)
 {
 	ifstream ss(filename);
